@@ -1,6 +1,6 @@
 #' Double
 #'
-#' @param x
+#' @param x Number
 #'
 #' @return The double of x
 #' @export
@@ -14,7 +14,7 @@ Double <- function(x = 1) {
 
 #' Triple
 #'
-#' @param x
+#' @param x Number
 #'
 #' @return The triple of x
 #' @export
@@ -28,8 +28,8 @@ Triple <- function(x = 1) {
 
 #' Multiple
 #'
-#' @param x
-#' @param n
+#' @param x First number being multiplied
+#' @param n Second number being multiplied
 #'
 #' @return x times n
 #' @export

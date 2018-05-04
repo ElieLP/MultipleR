@@ -2,9 +2,10 @@ Package: Multiple
 Title: Multiply numbers
 Version: 0.0.0.9000
 Authors@R: person("Elie", "Guedj", email = "elie973@gmail.com", role = c("aut", "cre"))
-Description: A package that multiply numbers by numbers
+Description: A package that multiply numbers by numbers. Very nice, very smooth, unbelievably fast.
 Depends: R (>= 3.4.4)
 License: GPL
 Encoding: UTF-8
 LazyData: true
 Suggests: testthat
+RoxygenNote: 6.0.1
